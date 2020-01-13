@@ -1,0 +1,21 @@
+// Fonts
+
+// Sedgwick Ave Display 
+@import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display&display=swap');
+
+// Noto Sans
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap');
+
+h1 {
+    font-family: 'Sedgwick Ave Display', sans-serif;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+p, span, a, li {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
